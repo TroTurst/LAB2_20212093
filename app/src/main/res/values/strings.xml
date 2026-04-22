@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IoT Lab2</string>
+    <string name="mi_codigo">20212093</string>
+    <string name="mi_nombre">Paul Munayco Tan</string>
+
+    <string-array name="tipos_equipo">
+        <item>Multímetro</item>
+        <item>OTDR</item>
+        <item>Medidor de potencia</item>
+        <item>Analizador de espectro</item>
+        <item>Pinza amperimétrica</item>
+    </string-array>
+
+    <string-array name="estados_equipo">
+        <item>Operativo</item>
+        <item>En mantenimiento</item>
+        <item>Fuera de servicio</item>
+    </string-array>
+</resources>
