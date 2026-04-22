@@ -57,15 +57,6 @@
             </PendingDiffInfo>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml">
-          <value>
-            <PendingDiffInfo>
-              <option name="filePath" value="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" />
-              <option name="originalContent" value="&lt;resources xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;&#10;    &lt;style name=&quot;Base.Theme.Iot_lab2&quot; parent=&quot;Theme.Material3.DayNight.NoActionBar&quot;&gt;&#10;        &lt;item name=&quot;colorPrimary&quot;&gt;@color/primary_blue&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnPrimary&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorSecondary&quot;&gt;@color/primary_blue_dark&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnSecondary&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;android:windowBackground&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorSurface&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnSurface&quot;&gt;@color/black&lt;/item&gt;&#10;        &lt;item name=&quot;android:textColorPrimary&quot;&gt;@color/black&lt;/item&gt;&#10;    &lt;/style&gt;&#10;&lt;/resources&gt;" />
-              <option name="updatedContent" value="&lt;resources&gt;&#10;    &lt;style name=&quot;Base.Theme.Iot_lab2&quot; parent=&quot;Theme.Material3.Light.NoActionBar&quot;&gt;&#10;        &lt;item name=&quot;colorPrimary&quot;&gt;@color/primary_blue&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnPrimary&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorSecondary&quot;&gt;@color/primary_blue_dark&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnSecondary&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorSurface&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;colorOnSurface&quot;&gt;@color/black&lt;/item&gt;&#10;        &lt;item name=&quot;colorOutline&quot;&gt;@color/divider_light&lt;/item&gt;&#10;        &lt;item name=&quot;android:windowBackground&quot;&gt;@color/white&lt;/item&gt;&#10;        &lt;item name=&quot;android:textColorPrimary&quot;&gt;@color/black&lt;/item&gt;&#10;        &lt;item name=&quot;android:textColorSecondary&quot;&gt;@color/text_gray&lt;/item&gt;&#10;    &lt;/style&gt;&#10;&lt;/resources&gt;" />
-            </PendingDiffInfo>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
           <value>
             <PendingDiffInfo>
